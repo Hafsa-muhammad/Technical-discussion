@@ -6,4 +6,4 @@ This is a demo repo
 * two 
 * three
 # Example of my code 
-(my code) https://gist.github.com/hafsaesam/230893b241c671f958acb82b8c4f616f
+[my code](https://gist.github.com/hafsaesam/230893b241c671f958acb82b8c4f616f)
